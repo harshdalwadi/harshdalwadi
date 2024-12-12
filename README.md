@@ -115,14 +115,11 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdalwadi&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdalwadi" alt="GitHub Streak Stats" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdalwadi&show_icons=true&locale=en&layout=compact" alt="harshdalwadi" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdalwadi&show_icons=true&layout=compact" alt="Top Languages" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdalwadi&show_icons=true&locale=en" alt="harshdalwadi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdalwadi&" alt="harshdalwadi" /></p>
 
 
 
