@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 **Currently working on:** Global Electronics Retailer
+- 🔭 **Currently working on:** ERP Data Integration & Reporting
 
 - 🌱 **Currently learning:** Statistics, Machine Learning, and Data Science
 
