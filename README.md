@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 **Currently working on:** ERP Data Integration & Reporting
+- 🔭 **Currently working on:** [ERP Data Integration & Reporting](https://github.com/harshdalwadi/faculty-workload-scheduling.git)
 
 - 🌱 **Currently learning:** Statistics, Machine Learning, and Data Science
 
