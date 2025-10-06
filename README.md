@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 **Currently working on:
+- 🔭 **Currently working on:**
   1. **Data Scraping via live website, employing Extract, Transform, Load (ETL) processes, and subsequent analysis**
   2. **[ERP Data Integration & Reporting](https://github.com/harshdalwadi/faculty-workload-scheduling.git)**
 
