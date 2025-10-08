@@ -6,7 +6,7 @@
 ---
 
 - 🔭 **Currently working on:**
-  1. **Data Scraping via live website, employing Extract, Transform, Load (ETL) processes, and subsequent analysis**
+  1. **[Data Scraping via live website, employing Extract, Transform, Load (ETL) processes, and subsequent analysis](https://github.com/harshdalwadi/ebay-prices-etl-analysis.git)**
   2. **[ERP Data Integration & Reporting](https://github.com/harshdalwadi/faculty-workload-scheduling.git)**
 
 - 🌱 **Currently learning:** Statistics, Machine Learning, and Data Science
