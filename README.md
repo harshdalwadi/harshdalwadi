@@ -5,15 +5,13 @@
 
 ---
 
-- 🔭 **Currently working on:**
-  1. **[Data Scraping via live website, employing Extract, Transform, Load (ETL) processes, and subsequent analysis](https://github.com/harshdalwadi/ebay-prices-etl-analysis.git)**
-  2. **[ERP Data Integration & Reporting](https://github.com/harshdalwadi/faculty-workload-scheduling.git)**
+- 🔭 **Currently working on:** Data Warehouseing using SQL Server
 
-- 🌱 **Currently learning:** Statistics, Machine Learning, and Data Science
+- 🌱 **Currently learning:** Statistics, Machine Learning, and Data Engineering
 
-- 🤝 **Looking for help with:** Data Analytics
+- 🤝 **Looking for help with:** Data Analytics and Business Analytics
 
-- 💬 **Ask me about:** Power BI, Tableau, SQL, Excel, Django
+- 💬 **Ask me about:** Power BI, Tableau, SQL, Advanced Excel
 
 - 📫 **Reach me at:** [harshdalwadi.analyst@gmail.com](mailto:harshdalwadi.analyst@gmail.com)
 
@@ -114,7 +112,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdalwadi&show_icons=true&locale=en&layout=compact" alt="harshdalwadi" /></p>
@@ -122,6 +120,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdalwadi&show_icons=true&locale=en" alt="harshdalwadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdalwadi&" alt="harshdalwadi" /></p>
-
+-->
 
 
